@@ -1,0 +1,25 @@
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# File di log e temporanei
+*.log
+*.csv
+*.tmp
+
+# Cache tool
+*.DS_Store
+Thumbs.db
+
+# Backup ExifTool
+*_original
+
+# File di test/output
+/audit_date_report.csv
+/errors/
